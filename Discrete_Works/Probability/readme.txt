@@ -1,0 +1,1 @@
+these projects were written for probability and statistics course. Comment lines, each of which was written for different purposes, were carefully included.
