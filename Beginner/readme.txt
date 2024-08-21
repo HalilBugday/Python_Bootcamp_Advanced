@@ -1,0 +1,1 @@
+In this section, rather than data structures or object-oriented programming, a good introduction to the Python language has been created.
